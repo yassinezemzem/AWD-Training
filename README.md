@@ -52,7 +52,7 @@ L’API Gateway agit comme un **intermédiaire intelligent** qui :
 
 L’énoncé détaillé du Workshop 3 est disponible au format PDF :
 
-👉 [Télécharger l’énoncé du Workshop 3](Implémentation API Gateway.pdf)
+👉 [Télécharger l’énoncé du Workshop 3](https://github.com/badi3a/AWD-Training/blob/main/Implémentation%20API%20Gateway.pdf)
 
 ---
 
